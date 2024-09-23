@@ -29,7 +29,7 @@ The goal of this project is to predict the price of diamonds using various regre
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diamond-price-prediction.git
+   git clone https://github.com/rahulpudurkar/Diamond-Price-Prediction-Using-Regression-Models.git
    cd diamond-price-prediction
    ```
 
